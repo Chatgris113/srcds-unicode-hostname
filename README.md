@@ -2,14 +2,14 @@
 
 ## 簡介
 
-由於 srcds (Source Dedicated Server)的 .cfg 檔案並不太支援 unicode 字元，若是用像是中文字，會使 hostname 變成空白或亂碼。
+由於 srcds (Source Dedicated Server)的 .cfg 檔案並不太支援 unicode 字元，若是用像是中文字，會使 hostname 變成空白或亂碼。<br>
 
-該插件理論上適用於各 source 遊戲的伺服器，僅測試於 L4D2。
+該插件理論上適用於各 source 遊戲的伺服器，僅測試於 L4D2。<br>
 會覆蓋 .cfg 內的 hostname 設定。
 
 ## 安裝
 
-將 unicode_hostname.smx 放置 \addons\sourcemod\plugins\ 資料夾內。
+將 unicode_hostname.smx 放置 \addons\sourcemod\plugins\ 資料夾內。<br>
 並將 unicode_hostname.txt 放置 \addons\sourcemod\data\ 資料夾內。
 
 ## 設定
