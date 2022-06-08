@@ -14,4 +14,4 @@
 
 ## 設定
 
-伺服器名稱(hostname)在 unicode_hostname.txt 內設定，取代"Your server's name"即可。
+伺服器名稱(hostname)在 unicode_hostname.txt 內設定，修改 "Your server's name" 即可。
