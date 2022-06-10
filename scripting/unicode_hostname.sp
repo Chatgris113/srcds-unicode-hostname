@@ -25,7 +25,7 @@ public Plugin myinfo =
 
 public void OnPluginStart()
 {
-	BuildPath(Path_SM, str_DataPath, PLATFORM_MAX_PATH, "data/%s.txt", KEYVALUE_FILENAME);
+	BuildPath(Path_SM, str_DataPath, PLATFORM_MAX_PATH, "gamedata/%s.txt", KEYVALUE_FILENAME);
 
 	KeyValues kv = new KeyValues(KEYVALUE_ROOTNAME);
 	kv.ImportFromFile(str_DataPath);
