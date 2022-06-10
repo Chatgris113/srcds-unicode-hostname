@@ -10,7 +10,7 @@
 ## 安裝
 
 將 unicode_hostname.smx 放置 \addons\sourcemod\plugins\ 資料夾內。<br>
-並將 unicode_hostname.txt 放置 \addons\sourcemod\data\ 資料夾內。
+並將 unicode_hostname.txt 放置 \addons\sourcemod\gamedata\ 資料夾內。
 
 ## 設定
 
